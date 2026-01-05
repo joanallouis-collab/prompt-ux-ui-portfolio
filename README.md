@@ -1,16 +1,14 @@
-🚀 Prompts IA - Portfolio UX/UI
+🚀 CSS additionnel + Prompts IA - Portfolio UX/UI
 
 Ex Nihilo:
 
+*CSS additionnel
 *Photos / Vidéos --> Adobe Firefly
-
-*CSS additionnel --> Perplexity Pro
-
 
 
 Farah Hamzi:
 
-*Mockup bandeau --> Figma
+*Mockup bandeau --> Figma AI
 
 
 
