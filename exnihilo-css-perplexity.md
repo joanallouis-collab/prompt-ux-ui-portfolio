@@ -4,7 +4,6 @@ Fonts:
 
 
 /*titre et description page d'accueil*/
-
 .uagb-ifb-desc{
 	font-family: "bauhaus 93";
 }
@@ -19,7 +18,6 @@ h1.uagb-ifb-title{
 }
 
 /*titre des pages*/
-
 h1.uagb-heading-text{
 	font-family: "bauhaus 93";
 }
@@ -51,7 +49,6 @@ h1.uagb-ifb-title-prefix{
 }
 
 /* description et paragraphes des pages*/
-
 p.uagb-ifb-desc{
 	font-family: "Rubik";
 }
@@ -64,7 +61,6 @@ p{
 Modifications Woocommerce:
 
 /* supression du fil d'ariane sans la page boutique*/
-
 .woocommerce-breadcrumb, 
 .breadcrumb-trail,
 .ast-breadcrumbs {
@@ -72,14 +68,12 @@ Modifications Woocommerce:
 }
 
 /*Suppression de l'affichage du nombre d'article sur la page boutique*/
-
 .woocommerce-result-count {
     display: none !important;
 }
 
 
 /*suppression de la loupe sur photo produit dans pages produits*/
-
 .woocommerce-product-gallery__trigger{
 	display: none !important;
 }
@@ -90,33 +84,28 @@ Modifications Woocommerce:
 
 
 /* Descendre le contenu de la page panier*/
-
 .woocommerce-cart-form{
 	margin-top: 120px !important;
 }
 
 /* Descendre la photo principale des pages produit*/
-
 .single-product #content {
   padding-top: 100px;
 }
 
 
 /* Remonter le header pages produits*/
-
 .entry-header {
 	margin-top: 0px !important;
 }
 
 
 /*Supprimer l'icone panier au hover de la photo produit*/
-
 .ast-on-card-button{
 	display: none;
 }
 
 /* Baisser notification "panier mis à jour" dans page panier au clic sur "mettre à jour le panier"*/
-
 .woocommerce-message{
 	margin-top: 100px;
 }
@@ -126,7 +115,6 @@ Modifications Woocommerce:
 }
 
 /* Marges sur le contenu des pages produits WooCommerce */
-
 .single-product .site-main {
   margin-left: 30px; /* marge gauche */
   margin-right: 30px; /* marge droite */
@@ -135,7 +123,6 @@ Modifications Woocommerce:
 
 
 /* Format uniforme pour toutes les images du catalogue produits WooCommerce */
-
 .woocommerce ul.products li.product img {
   width: 100% ;
   aspect-ratio: 4 / 6;    
@@ -149,7 +136,6 @@ Modifications Woocommerce:
 
 
 /* Ajouter de l’espace au dessus du contenu de la page checkout WooCommerce */
-
 .woocommerce-checkout .site-main,
 .woocommerce-checkout .content-area {
   margin-top: 120px;
@@ -157,14 +143,12 @@ Modifications Woocommerce:
 }
 
 /* Ajouter une marge sur tout le contenu du catalogue sauf le header */
-
 .archive.woocommerce .site-main {
   margin-left: 24px;
   margin-right: 24px;
 }
 
 /* Forcer le header catalogue à être full-width et sans marges/paddings latéraux */
-
 .archive.woocommerce .woocommerce-products-header,
 .archive.woocommerce .woocommerce-products-header > *,
 .archive.woocommerce .woocommerce-products-header img {
