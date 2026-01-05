@@ -12,4 +12,4 @@ Farah Hamzi:
 
 
 
-[Portfolio Figma](https://uxui-joanalouis.figma.site/)
+[Portfolio](https://uxui-joanalouis.figma.site/)
