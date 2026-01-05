@@ -1,0 +1,14 @@
+Farah Hamzi : Mockup page web 
+Bandeau designé sur Adobe Illustrator et intégré dans mockup Figma
+
+🎨 Prompt Figma AI Make Designs
+
+Mockup page accueil site web Farah Hamzi traductrice anglais/ français / fond bleu foncé / intégrer bandeau ci-joint
+
+
+🖼️ Mockup généré 
+
+<img width="2480" height="2582" alt="site farah" src="https://github.com/user-attachments/assets/c8083931-df19-453b-8fcd-f8a93e370187" />
+
+
+🔗 [Portfolio Figma](https://uxui-joanalouis.figma.site)
