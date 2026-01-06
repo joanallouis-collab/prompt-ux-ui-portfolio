@@ -3,6 +3,7 @@
 Ex Nihilo:
 
 *CSS additionnel
+
 *Photos / Vidéos --> Adobe Firefly
 
 
